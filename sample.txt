@@ -1,2 +1,4 @@
 First Line of some texts
 Second line
+Next line
+Some text from github
